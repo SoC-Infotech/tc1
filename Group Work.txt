@@ -1,0 +1,8 @@
+Earlier commits weren't pushed with comments stating what they were and who commited them.
+The work was done as a group and uploaded in large parts by few members.
+
+What was committed:
+
+Clark: Uploaded photos of prototype, worked on designing win and lose screen for wireframe.
+Sabian: Designed and uploaded images of the boy in the jar.
+Steven: Designed wireframes for menu and in progress game. Uploaded all wireframes.
