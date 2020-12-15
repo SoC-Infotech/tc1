@@ -1,0 +1,18 @@
+# Requirements
+Requires Python IDLE to run this game.
+Requires pygame library.
+
+# How to play Drown Guy
+
+How it Works
+
+Hangman is a literacy game that requires you to guess a word by selecting from letters A through Z.
+When letters are chosen correctly, the letters will show on screen. When a letter is chosen incorrectly
+water fills the jar. If too many letters are incorrect, the jar will fill and drown the player. When winning a smiley shows on screen the telling you congrats.
+When you guess too many wrong, the game ends and loss appears on screen.
+
+You have 3 difficulties to select: Easy, Normal or Hard. Words on each difficulty are longer than each other.
+Example: Easy - up to 6 Letters, Normal - up to 12 letters or multiple words, Hard - Multiple words and above 12 letters.
+Select a letter to receive an outcome based on if it was correct or not.
+
+
